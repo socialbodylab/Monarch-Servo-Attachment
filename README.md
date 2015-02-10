@@ -1,4 +1,4 @@
-# Monarch-Servo-Attachment
+# Monarch Servo Attachment
 The servo attachment within each pleated textile of the [Monarch](http://research.ocadu.ca/socialbody/project/prosthetic-technologies-of-being).
 
 # Printing
