@@ -4,6 +4,8 @@ The servo attachment within each pleated textile of the [Monarch](http://researc
 # Printing
 The `.stl` files in the root of the project are ready for print and have been tested multiple times. Simply open it in the application that works with your 3D printer and print normally. Tested with ABS and PLA at 0.2mm average resolution. 
 
+Note this attachment is adapted for the following Servo motor: [Futaba S3150](http://www.futaba-rc.com/servos/digital.html).
+
 # Rebuilding the Attachment
 
 To rebuild the attachment you will need OpenSCAD and Leiningen.
